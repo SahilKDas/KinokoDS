@@ -66,3 +66,10 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Local reference material; never distribute game dumps or extracted data.
+local/
+*.nds
+*.srl
+*.sav
+*.dsv

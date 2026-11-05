@@ -1,0 +1,9 @@
+kinoko-trace-v1
+profile=synthetic-accel-v1
+tick,accelerate,position_raw,speed_raw
+1,1,3,3
+2,1,9,6
+3,1,18,9
+4,1,30,12
+5,1,42,12
+6,0,54,12
